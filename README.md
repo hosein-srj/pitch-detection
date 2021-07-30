@@ -5,14 +5,14 @@ this code is with 3 methods
   <li> Autocorrelation </li>
   <li> Cepstrum Analysis </li>
 
-In the self-correlation function method, 2 peaks (numerically large) of the self-correlation function diagram are selected as lag for the estimated peak.
-Figure 1: Smoothed curve of points obtained) by Center Clipping method
-Figure 2: Candidate points obtained by Center Clipping method
-Figure 3: smoothed curve of points obtained (Level Center Clipping method 3)
-Figure 4: Candidate points obtained by 3 Level Center Clipping method
-Coefficient c for Center Clipping: 0.2
-Coefficient c for 3 Level Center Clipping: 0.2
-Energy threshold for sound frame detection: 500,000
+In the self-correlation function method, 2 peaks (numerically large) of the self-correlation function diagram are selected as lag for the estimated peak.  
+Figure 1: Smoothed curve of points obtained) by Center Clipping method  
+Figure 2: Candidate points obtained by Center Clipping method  
+Figure 3: smoothed curve of points obtained (Level Center Clipping method 3)  
+Figure 4: Candidate points obtained by 3 Level Center Clipping method  
+Coefficient c for Center Clipping: 0.2  
+Coefficient c for 3 Level Center Clipping: 0.2  
+Energy threshold for sound frame detection: 500,000  
 
 <h2> first Method: AMDF </h2>
 
