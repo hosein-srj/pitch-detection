@@ -4,9 +4,8 @@ this code is with 3 methods
   <li> AMDF </li>
   <li> Autocorrelation </li>
   <li> Cepstrum Analysis </li>
-
-
-
+<br>
+<br>
 In the self-correlation function method, 2 peaks (numerically large) of the self-correlation function diagram are selected as lag for the estimated peak.  
 Figure 1: Smoothed curve of points obtained) by Center Clipping method  
 Figure 2: Candidate points obtained by Center Clipping method  
